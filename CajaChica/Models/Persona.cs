@@ -8,12 +8,13 @@ namespace CajaChica.Models
 {
     public class Persona
     {
+        [ForeignKey("Empleado")]
         public int Id { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
 
         
         public virtual Domicilio Domicilio { get; set; }
-
+        public virtual Empleado Empleado { get; set; }
     }
 }
