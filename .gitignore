@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CajaChica/v16/Server/sqlite3
+/.vs/
+/CajaChica/obj
