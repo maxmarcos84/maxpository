@@ -905,19 +905,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\max_0\\.nuget\\packages\\": {}
+    "C:\\Users\\QUINARNQNSPD\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\max_0\\Source\\Repos\\maxmarcos84\\maxpository\\CajaChica\\CajaChica.csproj",
+      "projectUniqueName": "C:\\Users\\QUINARNQNSPD\\Source\\Repos\\maxpository\\CajaChica\\CajaChica.csproj",
       "projectName": "CajaChica",
-      "projectPath": "C:\\Users\\max_0\\Source\\Repos\\maxmarcos84\\maxpository\\CajaChica\\CajaChica.csproj",
-      "packagesPath": "C:\\Users\\max_0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\max_0\\Source\\Repos\\maxmarcos84\\maxpository\\CajaChica\\obj\\",
+      "projectPath": "C:\\Users\\QUINARNQNSPD\\Source\\Repos\\maxpository\\CajaChica\\CajaChica.csproj",
+      "packagesPath": "C:\\Users\\QUINARNQNSPD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QUINARNQNSPD\\Source\\Repos\\maxpository\\CajaChica\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\max_0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\QUINARNQNSPD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
