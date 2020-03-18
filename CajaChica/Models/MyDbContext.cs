@@ -16,5 +16,6 @@ namespace CajaChica.Models
         public DbSet<Persona> Persona { get; set; }
         public DbSet<Domicilio> Domicilio { get; set; } 
         public DbSet<Empleado> Empleado { get; set; }
+        public DbSet<Caja> Caja { get; set; }
     }
 }
